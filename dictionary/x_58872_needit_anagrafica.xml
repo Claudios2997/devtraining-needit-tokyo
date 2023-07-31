@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="62fc359a2f972110e7c5309cf699b69b" label="Anagrafica" max_length="40" name="x_58872_needit_anagrafica" type="collection">
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Cognome" max_length="40" name="cognome" type="string"/>
+        <element label="Nome" max_length="40" name="nome" type="string"/>
+        <element display="true" label="Telefono" max_length="40" name="telefono" type="string"/>
+    </element>
+</database>

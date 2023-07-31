@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="91dd3d1e2f972110e7c5309cf699b694" label="Ordini" max_length="40" name="x_58872_needit_ordini" type="collection">
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Codice prodotto" max_length="40" name="codice_prodotto" type="string"/>
+        <element label="Cognome" max_length="40" name="cognome" type="string"/>
+        <element label="Indirizzo (CAP)" max_length="40" name="indirizzo_cap" type="string"/>
+        <element display="true" label="Telefono" max_length="40" name="telefono" type="string"/>
+    </element>
+</database>

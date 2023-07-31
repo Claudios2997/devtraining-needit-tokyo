@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="454002de2f972110e7c5309cf699b640" extends="x_58872_needit_registro_dipendenti" label="Dipendenti_Task" max_length="40" name="x_58872_needit_dipendenti_task" type="collection">
+        <element label="COD PROGETTO" max_length="40" name="cod_progetto" type="string"/>
+        <element label="DIPENDENTE" max_length="40" name="dipendente" type="string"/>
+        <element label="DT_FINE_TASK" max_length="40" name="dt_fine_task" type="string"/>
+        <element label="ID_TASK" max_length="40" name="id_task" type="string"/>
+        <element label="NUMERO TASK" max_length="40" name="numero_task" type="string"/>
+        <element display="true" label="RUOLO IN AZIENDA" max_length="40" name="ruolo_in_azienda" type="string"/>
+    </element>
+</database>

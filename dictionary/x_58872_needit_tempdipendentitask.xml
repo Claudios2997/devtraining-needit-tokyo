@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3b0146122fd72110e7c5309cf699b6b8" extends="sys_import_set_row" label="tempDipendentiTask" max_length="40" name="x_58872_needit_tempdipendentitask" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COD DIP" label="COD DIP" max_length="40" name="u_cod_dip" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COD_PROG" label="COD_PROG" max_length="40" name="u_cod_prog" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DT_FINE_TASK" label="DT_FINE_TASK" max_length="40" name="u_dt_fine_task" type="glide_date"/>
+        <element attributes="import_attribute_name=ID TASK" label="ID TASK" max_length="40" name="u_id_task" type="integer"/>
+        <element attributes="import_attribute_name=NUMERO TASK" label="NUMERO TASK" max_length="40" name="u_numero_task" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RUOLO" label="RUOLO" max_length="40" name="u_ruolo" type="string"/>
+    </element>
+</database>
